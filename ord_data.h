@@ -1,0 +1,1 @@
+void ord_data(Contato *vet, Contato *vet2, int pos);
